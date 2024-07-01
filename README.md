@@ -1,9 +1,15 @@
-# api_final
-api final
+### API Django REST framework
+
+### Описание
+
+Проект направлен на тестирование функционала Django REST Framework с помощью библиотеки Postman и pytest.
+
+### Стек технологий
+
+Python, Django, Djoser, DRF, PostgreSQL, Postman, Fixtures, JWT-token, SQlite3, Pytest, Gunicorn, Nginx, Certbot.
 
 
-
-### Проект api_final_yatube для тестирования эндпоинтов:
+### Как установить
 
 Клонировать репозиторий и перейти в него в командной строке:
 
@@ -53,3 +59,12 @@ pip install djoser djangorestframework-simplejwt==4.7.2
 ```
 python3 manage.py runserver
 ```
+
+
+### Работающий результат
+
+[drf.alexeyadavydov.com/redoc/](https://drf.alexeyadavydov.com/redoc/)
+
+### Автор проекта (бэкенд и деплой)
+
+[AlexeyADavydov](https://github.com/AlexeyADavydov/)
